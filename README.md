@@ -1,4 +1,5 @@
 # b64tool 🔣
+![CI](https://github.com/realMNohgee/b64tool/actions/workflows/ci.yml/badge.svg) ![Python](https://img.shields.io/badge/python-3.9%2B-blue.svg) ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 
 **Base64, Base32, and Base16 encode/decode with auto-detection.** Zero dependencies, pure Python stdlib.
 
